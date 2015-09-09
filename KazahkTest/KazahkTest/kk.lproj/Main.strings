@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "currency"; ObjectID = "3XU-8f-uE8"; */
+"3XU-8f-uE8.text" = "валюта";
+
+/* Class = "UIButton"; normalTitle = "US English Button"; ObjectID = "8nR-kT-OFU"; */
+"8nR-kT-OFU.normalTitle" = "Қазақ батырмасы";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "E3F-xJ-dQa"; */
+"E3F-xJ-dQa.text" = "дата";
+
+/* Class = "UILabel"; text = "This label is in US English"; ObjectID = "f4h-kf-ygc"; */
+"f4h-kf-ygc.text" = "Бұл жапсырма қазақ болып табылады";
